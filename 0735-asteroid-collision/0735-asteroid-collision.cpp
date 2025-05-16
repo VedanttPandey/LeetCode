@@ -9,7 +9,7 @@ public:
             int ok=1;
             while (!st.empty() && st.top() > 0 && curr < 0){//will collide
             int top=st.top();
-            if(abs(top)>abs(curr)){//top will will win and curr will become top
+            if(abs(top)>abs(curr)){//top will will win 
                 // curr=top;
                 destroyed=1;
                 // st.pop(); 
