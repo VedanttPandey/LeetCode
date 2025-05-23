@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [0735-asteroid-collision](https://github.com/VedanttPandey/LeetCode/tree/master/0735-asteroid-collision) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/VedanttPandey/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/VedanttPandey/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/VedanttPandey/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/VedanttPandey/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
 | ------- |
@@ -66,9 +69,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
