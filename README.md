@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [0735-asteroid-collision](https://github.com/VedanttPandey/LeetCode/tree/master/0735-asteroid-collision) |
+| [3194-find-words-containing-character](https://github.com/VedanttPandey/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/VedanttPandey/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/VedanttPandey/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
+| [3194-find-words-containing-character](https://github.com/VedanttPandey/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
