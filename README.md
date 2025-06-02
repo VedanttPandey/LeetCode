@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VedanttPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
+| [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
 | [0735-asteroid-collision](https://github.com/VedanttPandey/LeetCode/tree/master/0735-asteroid-collision) |
 | [0945-snakes-and-ladders](https://github.com/VedanttPandey/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VedanttPandey/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VedanttPandey/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
