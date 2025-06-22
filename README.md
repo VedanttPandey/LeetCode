@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VedanttPandey/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VedanttPandey/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/VedanttPandey/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/VedanttPandey/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VedanttPandey/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/VedanttPandey/LeetCode/tree/master/0735-asteroid-collision) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VedanttPandey/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Two Pointers
 |  |
 | ------- |
