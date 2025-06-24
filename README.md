@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
+| [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/VedanttPandey/LeetCode/tree/master/0735-asteroid-collision) |
 | [0945-snakes-and-ladders](https://github.com/VedanttPandey/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -173,4 +174,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/VedanttPandey/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
