@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VedanttPandey/LeetCode/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/VedanttPandey/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VedanttPandey/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VedanttPandey/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/VedanttPandey/LeetCode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VedanttPandey/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/VedanttPandey/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VedanttPandey/LeetCode/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VedanttPandey/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Breadth-First Search
