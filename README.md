@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/VedanttPandey/LeetCode/tree/master/0274-h-index) |
+| [0307-range-sum-query-mutable](https://github.com/VedanttPandey/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
@@ -218,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/VedanttPandey/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/VedanttPandey/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VedanttPandey/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/VedanttPandey/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
