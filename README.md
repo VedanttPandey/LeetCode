@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/VedanttPandey/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/VedanttPandey/LeetCode/tree/master/0274-h-index) |
 | [0307-range-sum-query-mutable](https://github.com/VedanttPandey/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/VedanttPandey/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/VedanttPandey/LeetCode/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VedanttPandey/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VedanttPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/VedanttPandey/LeetCode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
