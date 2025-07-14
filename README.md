@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VedanttPandey/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedanttPandey/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VedanttPandey/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/VedanttPandey/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VedanttPandey/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/VedanttPandey/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedanttPandey/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
