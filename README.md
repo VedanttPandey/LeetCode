@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/VedanttPandey/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/VedanttPandey/LeetCode/tree/master/0274-h-index) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/VedanttPandey/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/VedanttPandey/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/VedanttPandey/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VedanttPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/VedanttPandey/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Stack
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/VedanttPandey/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/VedanttPandey/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedanttPandey/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
