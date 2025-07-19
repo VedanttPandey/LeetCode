@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedanttPandey/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/VedanttPandey/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedanttPandey/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VedanttPandey/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VedanttPandey/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
