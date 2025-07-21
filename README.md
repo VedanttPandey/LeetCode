@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedanttPandey/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/VedanttPandey/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/VedanttPandey/LeetCode/tree/master/0338-counting-bits) |
 | [0875-longest-mountain-in-array](https://github.com/VedanttPandey/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1250-longest-common-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/VedanttPandey/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/VedanttPandey/LeetCode/tree/master/0338-counting-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VedanttPandey/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
