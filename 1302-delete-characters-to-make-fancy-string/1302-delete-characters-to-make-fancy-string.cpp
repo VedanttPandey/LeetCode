@@ -1,17 +1,32 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        string ans = "";
-        ans.push_back(s[0]);
-        int n = s.size(),cnt = 1;
-        for(int i=1;i<n;i++){
-            if(s[i] == ans.back()){
+        int l = 0, r = 0;
+        int n = s.size();
+        int cnt = 1;
+        string ans;
+        for (; r < n; ++r) {
+            if (s[r] == s[l]) {
                 cnt++;
-                if(cnt < 3)ans.push_back(s[i]);
-            }
-            else{
+            } else {
+                if (cnt >= 3) {
+                    ans += s[l];
+                    ans += s[l];
+                } else {
+                    for (int i = l; i < r; ++i) {
+                        ans += s[i];
+                    }
+                }
+                l = r;
                 cnt = 1;
-                ans.push_back(s[i]);
+            }
+        }
+        if (cnt >= 3) {
+            ans += s[l];
+            ans += s[l];
+        } else {
+            for (int i = l; i < n; ++i) {
+                ans += s[i];
             }
         }
         return ans;
