@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/VedanttPandey/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VedanttPandey/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3886-count-number-of-trapezoids-i](https://github.com/VedanttPandey/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VedanttPandey/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VedanttPandey/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3886-count-number-of-trapezoids-i](https://github.com/VedanttPandey/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VedanttPandey/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VedanttPandey/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VedanttPandey/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3886-count-number-of-trapezoids-i](https://github.com/VedanttPandey/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/VedanttPandey/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [3886-count-number-of-trapezoids-i](https://github.com/VedanttPandey/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Divide and Conquer
 |  |
 | ------- |
