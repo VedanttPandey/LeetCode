@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedanttPandey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
+| [1170-shortest-common-supersequence](https://github.com/VedanttPandey/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VedanttPandey/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VedanttPandey/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/VedanttPandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/VedanttPandey/LeetCode/tree/master/0518-coin-change-ii) |
 | [0875-longest-mountain-in-array](https://github.com/VedanttPandey/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1170-shortest-common-supersequence](https://github.com/VedanttPandey/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/VedanttPandey/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
