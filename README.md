@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/VedanttPandey/LeetCode/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/VedanttPandey/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/VedanttPandey/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/VedanttPandey/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -250,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/VedanttPandey/LeetCode/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/VedanttPandey/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/VedanttPandey/LeetCode/tree/master/0207-course-schedule) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/VedanttPandey/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/VedanttPandey/LeetCode/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/VedanttPandey/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
