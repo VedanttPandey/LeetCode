@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/VedanttPandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/VedanttPandey/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/VedanttPandey/LeetCode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0729-my-calendar-i](https://github.com/VedanttPandey/LeetCode/tree/master/0729-my-calendar-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedanttPandey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VedanttPandey/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
+| [0474-ones-and-zeroes](https://github.com/VedanttPandey/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/VedanttPandey/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VedanttPandey/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VedanttPandey/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/VedanttPandey/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/VedanttPandey/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/VedanttPandey/LeetCode/tree/master/0518-coin-change-ii) |
 | [0875-longest-mountain-in-array](https://github.com/VedanttPandey/LeetCode/tree/master/0875-longest-mountain-in-array) |
