@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VedanttPandey/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VedanttPandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VedanttPandey/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/VedanttPandey/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/VedanttPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VedanttPandey/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VedanttPandey/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VedanttPandey/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedanttPandey/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VedanttPandey/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/VedanttPandey/LeetCode/tree/master/0135-candy) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VedanttPandey/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VedanttPandey/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
