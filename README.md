@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VedanttPandey/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VedanttPandey/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VedanttPandey/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0875-longest-mountain-in-array](https://github.com/VedanttPandey/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VedanttPandey/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VedanttPandey/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Union Find
 |  |
