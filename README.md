@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VedanttPandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VedanttPandey/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/VedanttPandey/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VedanttPandey/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedanttPandey/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VedanttPandey/LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/VedanttPandey/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VedanttPandey/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VedanttPandey/LeetCode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
