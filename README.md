@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedanttPandey/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VedanttPandey/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VedanttPandey/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/VedanttPandey/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/VedanttPandey/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedanttPandey/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VedanttPandey/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VedanttPandey/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/VedanttPandey/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/VedanttPandey/LeetCode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/VedanttPandey/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/VedanttPandey/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/VedanttPandey/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/VedanttPandey/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/VedanttPandey/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Combinatorics
@@ -443,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedanttPandey/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VedanttPandey/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/VedanttPandey/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
