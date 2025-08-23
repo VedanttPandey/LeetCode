@@ -3,10 +3,9 @@ public:
 
 vector<int> dx={0,0,1,-1};
 vector<int> dy={1,-1,0,0};
-void bfs(int i,int j,vector<vector<int>> &grid,vector<vector<int>> &dist,int n,int m){
+void bfs(vector<vector<int>> &grid,vector<vector<int>> &dist,int n,int m){
     deque<pair<int,int>> dq;
-    dq.push_back({i,j});
-    dist[i][j]=0;
+    dq.push_back({0,0});
     while(!dq.empty()){
         auto [l,r] =dq.front();
         dq.pop_front();
@@ -25,13 +24,15 @@ void bfs(int i,int j,vector<vector<int>> &grid,vector<vector<int>> &dist,int n,i
         int n=grid.size(),m=grid[0].size();
         vector<vector<int>> dist(n,vector<int> (m,1e9));
 
-        for(int i=0;i<n;++i){
-            for(int j=0;j<m;++j){
-                cout << dist[i][j] << "\t";
-            }
-            cout << "\n";
-        }
-        bfs(0,0,grid,dist,n,m);
+        // for(int i=0;i<n;++i){
+        //     for(int j=0;j<m;++j){
+        //         cout << dist[i][j] << "\t";
+        //     }
+        //     cout << "\n";
+        // }
+        dist[0][0]=0;
+
+        bfs(grid,dist,n,m);
         return dist[n-1][m-1];
     }
 };
