@@ -10,13 +10,13 @@ public:
     }
 
     void bfs(int i,int j,vector<vector<int>>& grid,int n,int m,int k){
-        deque<tuple<int,int,int>> dq;
-        dq.push_back({0,0,0});
+        queue<tuple<int,int,int>> dq;
+        dq.push({0,0,0});
         dist[0][0][0]=0;
 
         while(!dq.empty()){
             auto [currR,currC,destroyed]=dq.front();
-            dq.pop_front();
+            dq.pop();
 
             for(int d=0; d<4; ++d){
                 int nr=currR+dx[d], nc=currC+dy[d];
@@ -24,7 +24,7 @@ public:
                     int nwall=destroyed + grid[nr][nc];
                     if(nwall<=k && dist[nr][nc][nwall]>dist[currR][currC][destroyed]+1){
                         dist[nr][nc][nwall]=dist[currR][currC][destroyed]+1;
-                        dq.push_back({nr,nc,nwall});
+                        dq.push({nr,nc,nwall});
                     }
                 }
             }
