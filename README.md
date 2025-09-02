@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VedanttPandey/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VedanttPandey/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VedanttPandey/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2294-minimum-time-to-complete-trips](https://github.com/VedanttPandey/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VedanttPandey/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3194-find-words-containing-character](https://github.com/VedanttPandey/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/VedanttPandey/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VedanttPandey/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/VedanttPandey/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2294-minimum-time-to-complete-trips](https://github.com/VedanttPandey/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 ## Design
 |  |
 | ------- |
