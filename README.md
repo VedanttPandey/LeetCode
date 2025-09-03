@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VedanttPandey/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/VedanttPandey/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/VedanttPandey/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VedanttPandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VedanttPandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VedanttPandey/LeetCode/tree/master/0055-jump-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/VedanttPandey/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/VedanttPandey/LeetCode/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VedanttPandey/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
