@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/VedanttPandey/LeetCode/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VedanttPandey/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/VedanttPandey/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VedanttPandey/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/VedanttPandey/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VedanttPandey/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/VedanttPandey/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/VedanttPandey/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VedanttPandey/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/VedanttPandey/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
