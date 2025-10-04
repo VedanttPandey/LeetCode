@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VedanttPandey/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/VedanttPandey/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/VedanttPandey/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1917-maximum-average-pass-ratio](https://github.com/VedanttPandey/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/VedanttPandey/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VedanttPandey/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/VedanttPandey/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/VedanttPandey/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VedanttPandey/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/VedanttPandey/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VedanttPandey/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/VedanttPandey/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VedanttPandey/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VedanttPandey/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/VedanttPandey/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VedanttPandey/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/VedanttPandey/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VedanttPandey/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/VedanttPandey/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/VedanttPandey/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/VedanttPandey/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/VedanttPandey/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/VedanttPandey/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/VedanttPandey/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Geometry
 |  |
 | ------- |
