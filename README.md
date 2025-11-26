@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/VedanttPandey/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VedanttPandey/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VedanttPandey/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3194-find-words-containing-character](https://github.com/VedanttPandey/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/VedanttPandey/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedanttPandey/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/VedanttPandey/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VedanttPandey/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VedanttPandey/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VedanttPandey/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/VedanttPandey/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VedanttPandey/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VedanttPandey/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/VedanttPandey/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3618-find-the-original-typed-string-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
