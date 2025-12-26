@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VedanttPandey/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VedanttPandey/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/VedanttPandey/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/VedanttPandey/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3194-find-words-containing-character](https://github.com/VedanttPandey/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/VedanttPandey/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/VedanttPandey/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VedanttPandey/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/VedanttPandey/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/VedanttPandey/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3618-find-the-original-typed-string-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/VedanttPandey/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
