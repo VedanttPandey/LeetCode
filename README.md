@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VedanttPandey/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/VedanttPandey/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/VedanttPandey/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/VedanttPandey/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VedanttPandey/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VedanttPandey/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedanttPandey/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VedanttPandey/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/VedanttPandey/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VedanttPandey/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/VedanttPandey/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VedanttPandey/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/VedanttPandey/LeetCode/tree/master/0274-h-index) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VedanttPandey/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/VedanttPandey/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/VedanttPandey/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/VedanttPandey/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VedanttPandey/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VedanttPandey/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VedanttPandey/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VedanttPandey/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/VedanttPandey/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VedanttPandey/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VedanttPandey/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VedanttPandey/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VedanttPandey/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VedanttPandey/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/VedanttPandey/LeetCode/tree/master/0169-majority-element) |
 ## Binary Tree
 |  |
 | ------- |
