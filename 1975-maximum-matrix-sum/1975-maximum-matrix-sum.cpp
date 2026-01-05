@@ -17,7 +17,7 @@ public:
             }
             // cout << sum << '\n';
         }
-        cout << sum << ' ' << cntN << ' '<< minE;
+        // cout << sum << ' ' << cntN << ' '<< minE;
         return (cntN & 1 ? sum-2*minE : sum);
 
     }
