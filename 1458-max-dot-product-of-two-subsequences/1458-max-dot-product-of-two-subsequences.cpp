@@ -45,6 +45,22 @@ int dp[501][501];
         if(maxi1<0 && maxi2>=0 || maxi1>=0 && maxi2<0){
             return max({maxi1*mini2,maxi1*maxi2,mini1*maxi2,mini1*mini2});
         }
-        return f(0,0,nums1,nums2);
+        // return f(0,0,nums1,nums2);
+
+        for(int i=n;i>=0;--i){
+            for(int j=m;j>=0;--j){
+                if(i==n || j==m)dp[i][j]=0;
+                else{
+                    if(dp[i][j]!=-1)dp[i][j]=dp[i][j];
+                    else{
+                        dp[i][j]=max(dp[i][j],dp[i+1][j+1]+nums1[i]*nums2[j]);
+                        dp[i][j]=max(dp[i][j],dp[i+1][j]);
+                        dp[i][j]=max(dp[i][j],dp[i][j+1]);
+                    }
+                }
+            }
+        }
+
+        return dp[0][0];
     }
 };
