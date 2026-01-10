@@ -3,26 +3,6 @@ public:
 
 int dp[1005][1005];
 int n,m;
-
-int rec(int i,int j,string s1,string s2){
-    if(i==n && j==m )return 0;
-
-    if (i == n) return int(s2[j]) + rec(i, j + 1, s1, s2);
-
-    if (j == m) return int(s1[i]) + rec(i + 1, j, s1, s2);
-
-    if(dp[i][j]!=-1)return dp[i][j];
-
-    int ans=INT_MAX;
-
-    if(s1[i]!=s2[j]){
-        ans=min(ans,rec(i+1,j,s1,s2)+int(s1[i]));
-        ans=min(ans,rec(i,j+1,s1,s2)+int(s2[j]));
-    }
-    else ans=min(ans,rec(i+1,j+1,s1,s2));
-
-    return dp[i][j]=ans;
-}
     int minimumDeleteSum(string s1, string s2) {
         memset(dp,-1,sizeof(dp));
 
@@ -46,7 +26,6 @@ int rec(int i,int j,string s1,string s2){
             }
         }
 
-        // return rec(0,0,s1,s2);
         return dp[0][0];
     }
 };
