@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VedanttPandey/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/VedanttPandey/LeetCode/tree/master/3321-type-of-triangle) |
+| [3453-separate-squares-i](https://github.com/VedanttPandey/LeetCode/tree/master/3453-separate-squares-i) |
 | [3639-zero-array-transformation-i](https://github.com/VedanttPandey/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/VedanttPandey/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VedanttPandey/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VedanttPandey/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/VedanttPandey/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2294-minimum-time-to-complete-trips](https://github.com/VedanttPandey/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
+| [3453-separate-squares-i](https://github.com/VedanttPandey/LeetCode/tree/master/3453-separate-squares-i) |
 ## Design
 |  |
 | ------- |
